@@ -1,0 +1,6 @@
+{
+  "name": "TwinKinétique",
+  "description": "Modélisation mécaniste de la cinétique de liaison des cytokines pro-inflammatoires et de leurs antagonistes pour la prédiction de résistance thérapeutique sur plateforme Digital Twin Health.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
